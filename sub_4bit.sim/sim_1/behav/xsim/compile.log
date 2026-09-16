@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/wlsgh/lab1_04_sub_4bit/src/sub_4bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sub_4bit
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/wlsgh/lab1_04_sub_4bit/sim/tb_sub_4bit.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_sub_4bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/wlsgh/lab1_04_sub_4bit/sub_4bit.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
